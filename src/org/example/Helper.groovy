@@ -1,4 +1,4 @@
-package.org.example 
+package org.example 
 
 class Helper {
   static String toUpper(String name){
